@@ -1,20 +1,10 @@
+// used for the racing ant ♡
+// can def be improved ~ ...
+
 var tab_word; 
 
 function tab() {
   tab_word = document.getElementById('wordwrap');
-  // switch(x) {
-  //   case 1:
-  //     tab_word.innerHTML = "email";
-  //     break;
-  //   case 2:
-  //     tab_word.innerHTML = "links";
-  //     break;
-  //   case 3:
-  //     tab_word.innerHTML = "cv";
-  //     break;
-  //   // default:
-  //   //   tab_word.innerHTML = "jessica herzog"
-  // }
   return tab_word;
 };
 

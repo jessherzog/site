@@ -1,3 +1,7 @@
+/* 
+  apologies in advance
+*/
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -183,7 +187,6 @@ td,
 th {
   padding: 0;
 }
-/*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
   *:before,
@@ -628,7 +631,6 @@ a.bg-danger:focus {
 .page-header {
   padding-bottom: 9px;
   margin: 40px 0 20px;
-  /*border-bottom: 1px solid #eee;*/
   border-bottom: 1px solid;
   border-image: url('img/ants2.gif') 8 repeat repeat;
   -moz-border-image: url('img/ants2.gif') 1 repeat repeat;
